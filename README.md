@@ -110,6 +110,8 @@ Performing these transformations before loading the data helps keep the reportin
 
 # Data Model
 
+> *<img width="1475" height="719" alt="Image" src="https://github.com/user-attachments/assets/8f482ec3-15e0-4df7-8653-87ebc3f96c0f" />*
+
 The report follows a star schema design where the central **Fact Table** stores transactional sales records and is connected to supporting dimension tables.
 
 ### Fact Table
